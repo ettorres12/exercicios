@@ -1,6 +1,6 @@
 package lista1;
 
-public class Main {
+public class MainSimulador {
     public static void main(String[] args) {
         SimuladorFinanceiro simuladorFinanceiro = new SimuladorFinanceiro();
 
